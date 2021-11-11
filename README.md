@@ -2,4 +2,4 @@
 - 🌱 I’m currently finishing learning Java Spring framework and some related technologies with my mentor.
 - 📫 How to reach me:
 - saitov.working@gmail.com
-- https://t.me/constructorspb (Telegram)
+- https://t.me/constructorspb
