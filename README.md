@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ilyas Saitov, Java developer from St.Petersburg, Russia.
-- 🌱 I’m currently finishing learning Java Spring framework and some related technologies with my mentor.
+- 🌱 I’m currently finishing Java Spring framework course with my mentor.
 - 📫 How to reach me:
 - saitov.working@gmail.com
 - https://t.me/constructorspb
